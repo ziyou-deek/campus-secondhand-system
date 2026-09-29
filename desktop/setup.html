@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'" />
+  <title>连接校园交易平台</title>
+  <link rel="stylesheet" href="setup.css" />
+</head>
+<body>
+  <main>
+    <h1>连接校园交易平台</h1>
+    <p>首次使用，请填写学校提供的平台网址。所有设备使用同一网址，共享商品和订单。</p>
+    <form id="form">
+      <label for="url">平台网址</label>
+      <input id="url" type="url" placeholder="https://trade.example.com" required />
+      <button type="submit">连接平台</button>
+      <p id="message" role="status"></p>
+    </form>
+  </main>
+  <script src="setup.js"></script>
+</body>
+</html>

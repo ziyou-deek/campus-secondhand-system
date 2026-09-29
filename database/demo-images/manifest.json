@@ -1,0 +1,102 @@
+{
+  "laptop": {
+    "file": "laptop.jpg",
+    "title": "File:Laptop image.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Laptop_image.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Laptop_image.jpg/960px-Laptop_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Darakshanehaluddin",
+    "bytes": 168919
+  },
+  "tablet": {
+    "file": "tablet.jpg",
+    "title": "File:Tablet computer.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tablet_computer.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tablet_computer.jpg/960px-Tablet_computer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "KK IN HK",
+    "bytes": 79384
+  },
+  "headphones": {
+    "file": "headphones.jpg",
+    "title": "File:Headphones on desk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Headphones_on_desk.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Headphones_on_desk.jpg/960px-Headphones_on_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Lirazelf",
+    "bytes": 131301
+  },
+  "books": {
+    "file": "books.jpg",
+    "title": "File:2006-12-18 A stack of books, from Taiwan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:2006-12-18_A_stack_of_books,_from_Taiwan.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2006-12-18_A_stack_of_books%2C_from_Taiwan.jpg/960px-2006-12-18_A_stack_of_books%2C_from_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Cheon Fong Liew",
+    "bytes": 194526
+  },
+  "lamp": {
+    "file": "lamp.jpg",
+    "title": "File:A desk lamp.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_desk_lamp.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/A_desk_lamp.jpg/960px-A_desk_lamp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "AirbusA330772673",
+    "bytes": 198537
+  },
+  "kettle": {
+    "file": "kettle.jpg",
+    "title": "File:Electric kettle phillips white.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Electric_kettle_phillips_white.JPG",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Electric_kettle_phillips_white.JPG/960px-Electric_kettle_phillips_white.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "license_url": "",
+    "author": "Rafa",
+    "bytes": 167624
+  },
+  "backpack": {
+    "file": "backpack.jpg",
+    "title": "File:Wikimedia swag backpack.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wikimedia_swag_backpack.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Wikimedia_swag_backpack.jpg/960px-Wikimedia_swag_backpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kaartic",
+    "bytes": 198357
+  },
+  "badminton": {
+    "file": "badminton.jpg",
+    "title": "File:Badminton Racket.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Badminton_Racket.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Badminton_Racket.jpg/960px-Badminton_Racket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "hvshop",
+    "bytes": 82343
+  },
+  "bicycle": {
+    "file": "bicycle.jpg",
+    "title": "File:Parked bicycle (52372051558).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Parked_bicycle_(52372051558).jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Parked_bicycle_%2852372051558%29.jpg/960px-Parked_bicycle_%2852372051558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Sergiy Galyonkin from Raleigh, USA",
+    "bytes": 145943
+  },
+  "guitar": {
+    "file": "guitar.jpg",
+    "title": "File:00 Walden Acoustic Guitar D310e 01.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:00_Walden_Acoustic_Guitar_D310e_01.jpg",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/00_Walden_Acoustic_Guitar_D310e_01.jpg/960px-00_Walden_Acoustic_Guitar_D310e_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Elmschrat",
+    "bytes": 359384
+  }
+}

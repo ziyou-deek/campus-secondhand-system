@@ -1,0 +1,22 @@
+{
+  "name": "campus-secondhand-desktop",
+  "productName": "校园二手交易平台",
+  "version": "1.0.0",
+  "description": "校园二手交易平台 Windows 客户端",
+  "main": "main.cjs",
+  "author": "Campus Secondhand Project",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "electron-forge start",
+    "test": "node --test",
+    "make": "electron-forge make --platform win32 --arch x64"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "7.11.2",
+    "@electron-forge/maker-squirrel": "7.11.2",
+    "electron": "44.4.5"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "1.0.1"
+  }
+}
